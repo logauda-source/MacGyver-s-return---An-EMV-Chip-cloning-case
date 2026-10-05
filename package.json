@@ -1,0 +1,19 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "em",
+  "keywords": [
+    "gitp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "gitp"
+  },
+  "license": "ISC",
+  "author": "nom test",
+  "type": "comonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  }
+}
